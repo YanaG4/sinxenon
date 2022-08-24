@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 My name is Yana
+
+ 🔭 I’m currently working on currency converter
+ 
+ 📫 How to reach me: sinxenon4@gmail.com
+ 
 
 <!--
 **sinxenon/sinxenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
