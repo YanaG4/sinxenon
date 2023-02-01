@@ -1,12 +1,11 @@
 # Hi there 👋 My name is Yana
 ### I am a frontend developer
 
- 🔭 I’m currently working on Timer App
+ 🔭 I’m currently working on a Timer App
  
  📫 How to reach me: 
  
  <a href="https://www.linkedin.com/in/yana-glushychkina-5a5592263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a target="_top" href="mailto:sinxenon4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
  
  ## My stack
  
