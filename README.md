@@ -7,6 +7,16 @@
  
  <a href="https://www.linkedin.com/in/yana-glushychkina-5a5592263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  
+ ## My projects (DEMO)
+ 
+ • <a href="https://sinxenon.github.io/currency-converter/">Currency Converter</a>
+  
+ • <a href="https://sinxenon.github.io/public-holiday-calendar/">Public Holiday Calendar</a>
+  
+ • <a href="https://sinxenon.github.io/demands-search/">Demands Search</a>
+  
+ • <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a>
+ 
  ## My stack
  
  ### Programming
