@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Yana
 ### I am a frontend developer
 
- 🔭 I’m currently working on a Timer App
+ 🔭 I’m currently working on <b>Your Timer Hub</b>
  
  📫 How to reach me: 
  
@@ -9,13 +9,13 @@
  
  ## My projects (DEMO)
  
- • <a href="https://sinxenon.github.io/currency-converter/">Currency Converter</a>
+💲 <a href="https://sinxenon.github.io/currency-converter/">Currency Converter</a> — currency charts, minor unit value support, SPA routing, carousel, third-party API & libraries, responsive design, dark/light theme
   
- • <a href="https://sinxenon.github.io/public-holiday-calendar/">Public Holiday Calendar</a>
+ 📅 <a href="https://sinxenon.github.io/public-holiday-calendar/">Public Holiday Calendar</a> — big calendar, Material UI, semi-commercial, responsive design, design created from scratch
   
- • <a href="https://sinxenon.github.io/demands-search/">Demands Search</a>
+ 🔍 <a href="https://sinxenon.github.io/demands-search/">Demands Search</a> — Material UI with custom styles, responsive design, user-friendly UX
   
- • <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a>
+ 🕔 <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a> — drag & drop, prevent setTimeOut from freezing while inactive, sound effects, animations, design created from scratch, responsive design, hosted on Digital Ocean, <i>(ongoing project)</i>
  
  ## My stack
  
