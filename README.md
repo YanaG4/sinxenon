@@ -1,11 +1,19 @@
 # Hi there 👋 My name is Yana
-### I am a frontend developer
+### I am a passionate frontend developer with a Master's degree in CS and 7+ years of design experience in IT industry! 
 
- 🔭 I’m currently working on <b>Your Timer Hub</b>
+### I'm eager to contribute my skills and knowledge to your company/project! 🔥 Feel free to reach out to me! 🤝
+
+### 👨‍💻 Open to work!
+
+🇺🇦 🇪🇪 I have a <b>Ukrainian</b> passport, but I live in <b>Tallinn</b> and am eligible to work in <b>Estonia</b>! I can also work remotely for companies <b>worldwide</b>! 🌎
+
+ 🔭 I’m currently working on <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a>
  
  📫 How to reach me: 
  
  <a href="https://www.linkedin.com/in/yana-glushychkina-5a5592263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ 
+ Email: sinxenon.biz@gmail.com
  
  ## My projects (DEMO)
  
