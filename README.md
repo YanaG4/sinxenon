@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Yana
-### I am a passionate frontend developer with a Master's degree in CS and 7+ years of design experience in IT industry! 
+### I am a passionate frontend developer with a Master's degree in CS! 
 
 ### I'm eager to contribute my skills and knowledge to your company/project! 🔥 Feel free to reach out to me! 🤝
 
