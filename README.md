@@ -1,10 +1,10 @@
 # Hi there 👋 My name is Yana
 ### I am a passionate frontend developer with a Master's degree in CS! 
 
-### I'm eager to contribute my skills and knowledge to your company/project! 🔥 Feel free to reach out to me! 🤝
-
+ I'm eager to contribute my skills and knowledge to your company/project! 🔥 Feel free to reach out to me! 🤝
+<!--
 ### 👨‍💻 Open to work!
-
+-->
 🇺🇦 🇪🇪 I have a <b>Ukrainian</b> passport, but I live in <b>Tallinn</b> and am eligible to work in <b>Estonia</b>! I can also work remotely for companies <b>worldwide</b>! 🌎
 
  🔭 I’m currently working on <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a>
